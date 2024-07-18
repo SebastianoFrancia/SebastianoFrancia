@@ -1,5 +1,7 @@
-# 💫 About Me:
-### Hi there 👋
+<p align="center"><a href="https://github.com/SebastianoFrancia/"><img width="80%" alt="Hello, I'm Sebastiano" src="./.assets/gh-readme-header.png" /></a></p>
+<br>
+
+### 💫 About Me:
 I'm a computer science student at ITT Blaise Pascal 🏫<br>
 <!-- i learning C++, C#, Python and Kotlin 💻 -->
 
@@ -12,9 +14,11 @@ I'm a computer science student at ITT Blaise Pascal 🏫<br>
 <!-- ![CSS](https://img.shields.io/badge/CSS-214CE5?style=for-the-badge&logo=css3&logoColor=white) -->
 <!-- ![Linux](https://img.shields.io/badge/LINUX-FFA200?style=for-the-badge&logo=linux&logoColor=181818) -->
 
-![SebastianoFrancia's GitHub stats](https://github-readme-stats.vercel.app/api?username=SebastianoFrancia&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
-![](https://github-readme-streak-stats.herokuapp.com/?user=SebastianoFrancia&theme=dark&hide_border=false)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=SebastianoFrancia&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=SebastianoFrancia&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br>
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=SebastianoFrancia&theme=dark&hide_border=false)<br>
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=SebastianoFrancia&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)<br>
 
 
 <!--
