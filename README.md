@@ -1,6 +1,5 @@
 <p align="center"><a href="https://github.com/SebastianoFrancia/"><img width="80%" alt="Hello, I'm Sebastiano" src="./.assets/gh-readme-header.png" /></a></p>
 
-
 ### 💫 About Me:
 🎓 Student | 💻 Developer <br>
 🏫 I'm a computer science student at ITT Blaise Pascal <br>
